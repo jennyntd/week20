@@ -16,7 +16,7 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 ## Files
 
-* [`AssociateProfitSplitter.sol`](Starter-Code/AssociateProfitSplitter.sol) — Level 1 starter code.
+* [`AssociateProfitSplitter.sol`](AssociateProfitSplitter.sol) — Level 1 starter code.
 
 * [`TieredProfitSplitter.sol`](Starter-Code/TieredProfitSplitter.sol) — Level 2 starter code.
 
@@ -26,19 +26,19 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 ## Associate Profit Splitter
 
 The below is written contract that compiled and deployed.
-![contract](Images/contract1.png)
+![contract](Images/contract1.PNG)
 
-![contract](Images/contract.png)
+![contract](Images/contract.PNG)
 
 Deploy transaction in metamask
 
-![deploy](Images/meta1.png)
+![deploy](Images/meta1.PNG)
 
 The account that fund will move from 0x6bBc738c725C92aBA794BAb05482a737B7332bf0
 
-![account1](Images/employeeaccount1.png)
+![account1](Images/employeeaccount1.PNG)
 
-![ganache](Images/ganache2.png)
+![ganache](Images/ganache2.PNG)
 
 **Address Info**
 
@@ -50,13 +50,13 @@ employee_three address is 0x91701015356f9D79E04DaEac906a4c6d1D29287C
 
 3 ether will be deposit to those 3 addresses 
 
-![deposit](Images/deposit.png)
+![deposit](Images/deposit.PNG)
 
 ## Confirm deposit successfully in Metamask and Ganache
 
-![deposit2](Images/contractdeploy.png)
+![deposit2](Images/contractdeploy.PNG)
 
-![deposit3](Images/ganache1.png)
+![deposit3](Images/ganache1.PNG)
 
 
 
